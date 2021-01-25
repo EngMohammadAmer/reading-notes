@@ -1,5 +1,3 @@
-reading-notes
-
 [Remote](remote.md)
 
 [Mastering Markdown](markdown.md)
