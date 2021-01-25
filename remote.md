@@ -1,4 +1,4 @@
-[Home](reading-notes.md)
+[Home](README.md)
 
 # Remotes
 
