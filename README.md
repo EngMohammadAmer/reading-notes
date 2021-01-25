@@ -20,4 +20,4 @@ when faced with **Success** of others the fixed behaves to avoid and the growth 
 so the person who have a *fixed mindset* will fails to reach full potintial.
 and the person who have a *growth mindset* will achive more and higher goals.
 
-This is my first site on GitHub [GitHub Pages](https://engmohammadamer.github.io/reading-notes/)
+This is my first site on [Repl.it](https://My-First-Page.engmohammadamer.repl.co)
