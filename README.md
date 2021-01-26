@@ -18,8 +18,8 @@ Kindly Review [my repl.it pages](https://my-first-page.engmohammadamer.repl.co/)
 
 # Table of contents
 
-- [Growth mindset](Growthmindset.md)
-- [Behaviors](Behaviors.md)
-- [Summary](Summary.md)
-- [Remote](remote.md)
-- [Mastering Markdown](markdown.md)
+- [Growth mindset](Growthmindset)
+- [Behaviors](Behaviors)
+- [Summary](Summary)
+- [Remote](remote)
+- [Mastering Markdown](markdown)

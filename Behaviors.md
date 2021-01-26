@@ -1,4 +1,4 @@
-[Home](README.md)
+[Home](README)
 
 
 # behaviour differances between fixed mindset and growth mindset
