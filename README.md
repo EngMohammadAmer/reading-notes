@@ -23,3 +23,5 @@ Kindly Review [my repl.it pages](https://my-first-page.engmohammadamer.repl.co/)
 - [Summary](Summary)
 - [Remote](remote)
 - [Mastering Markdown](markdown)
+- [HTML](html)
+
