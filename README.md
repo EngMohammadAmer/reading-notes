@@ -1,28 +1,25 @@
-[INTRODUCTION](introduction.md)
+# Eng. Mohammad Amer
 
-[Remote](remote.md)
+## Introduction about Myself
+ 
+I am Eng. Mohammad Amer, MEP Engineer with 10 years experience, I have a demonstrated history of working in the construction industry. Skilled in AutoCAD, HVAC, Plumbing, Firefighting, Mechanical buildings services, Computer-Aided Design. 
 
-[Mastering Markdown](markdown.md)
+I am self-motivated and a good team player. 
 
-# growth mindset
-A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
+Please don't hesitate to contact me at any time. 
 
-By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
+Eng. Mohammad Sadeq Amer
 
-## behaviour differances between fixed mindset and growth mindset
+Sr. Mechanical Engineer
 
-when faced with **CHALLENGES** the fixed behaves to avoid and the growth mindset behaves to embrace
+00962-
 
-when faced with **Obstacles** the fixed behaves to avoid and the growth mindset behaves to embrace
+Kindly Review [my repl.it pages](https://my-first-page.engmohammadamer.repl.co/) 
 
-when faced with **Effort** the fixed behaves to avoid and the growth mindset behaves to embrace
+# Table of contents
 
-when faced with **Criticism** the fixed behaves to avoid and the growth mindset behaves to embrace
-
-when faced with **Success** of others the fixed behaves to avoid and the growth mindset behaves to embrace
-
-# SUMMARY
-so the person who have a *fixed mindset* will fails to reach full potintial.
-and the person who have a *growth mindset* will achive more and higher goals.
-
-This is my first site on [Repl.it](https://My-First-Page.engmohammadamer.repl.co)
+- [Growth mindset](Growthmindset.md)
+- [Behaviors](Behaviors.md)
+- [Summary](Summary.md)
+- [Remote](remote.md)
+- [Mastering Markdown](markdown.md)
