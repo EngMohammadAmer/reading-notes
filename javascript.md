@@ -1,3 +1,5 @@
+[HOME](README.md)
+
 # Javascript
 
 ## What is a script
