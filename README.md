@@ -25,4 +25,4 @@ Kindly Review [my repl.it pages](https://my-first-page.engmohammadamer.repl.co/)
 - [Mastering Markdown](markdown)
 - [HTML](html)
 - [JAVASCRIPT](javascript)
-
+- [Operators and Loops](operatorsandloops.md)
