@@ -50,9 +50,9 @@ These are six-digit codes that represent the amount of red, green and blue in a 
 * color names
 There are 147 predefined color names that are recognized by browsers. For example: DarkCyan
 
-* opacity, rgba
+## opacity, rgba
 
-* hsl, hsla
+## hsl, hsla
 * hsla(0,100%,100%,0.5);
 - hue
 This is expressed as an angle (between 0 and 360 degrees).
