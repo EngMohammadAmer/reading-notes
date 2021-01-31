@@ -11,9 +11,8 @@ is to imagine that there is an invisible box around every HTML element.
 
 ## BLOCK & INLINE ELEMENTS
 - Block level elements look like they start on a new line.
-Examples include the <h1>-<h6>, <p> and <div> elements
 - Inline elements flow within the text and do not start on a new line. 
-Examples include <b>, <i>, <img>, <em> and <span>.
+
 
 ## CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
 
@@ -68,7 +67,7 @@ This is expressed as a number between 0 and 1.0. For example, 0.5 represents 50%
 
 # Summary
 # COLOR
-Color not only brings your s XX ite to life, but also helps convey the mood and evokes reactions.
+Color not only brings your site to life, but also helps convey the mood and evokes reactions.
 * There are three ways to specify colors in CSS: RGB values, hex codes, and color names.
 * Color pickers can help you find the color you want.
 * It is important to ensure that there is enough contrast between any text and the background color (otherwise people will not be able to read your content).
