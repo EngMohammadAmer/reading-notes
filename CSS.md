@@ -29,7 +29,7 @@ font-family: Arial;
 3- external
 
 # css selectors:
-[PDF FILE](./"css selectors.pdf")
+[PDF FILE]('./css selectors.pdf')
 
 # Summary
 INTRODUCING CSS
