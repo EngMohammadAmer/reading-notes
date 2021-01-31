@@ -29,7 +29,7 @@ font-family: Arial;
 3- external
 
 # css selectors:
-[PDF FILE](css selectors.pdf)
+[PDF FILE](cssselectors.pdf)
 
 # Summary
 INTRODUCING CSS
@@ -51,6 +51,7 @@ These are six-digit codes that represent the amount of red, green and blue in a 
 There are 147 predefined color names that are recognized by browsers. For example: DarkCyan
 
 ## opacity, rgba
+rgba(0,0,0,0.5);
 
 ## hsl, hsla
 * hsla(0,100%,100%,0.5);
