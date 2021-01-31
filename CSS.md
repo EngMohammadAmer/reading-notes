@@ -28,7 +28,7 @@ font-family: Arial;
 2- internal 
 3- external
 
-#css selectors:
+# css selectors:
 [PDF FILE](css selectors.pdf)
 
 # Summary
